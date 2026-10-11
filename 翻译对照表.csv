@@ -1,0 +1,608 @@
+﻿英文原文,简体中文,类别
+"Available disk space is low, which may have caused the recording to stop.",可用磁盘空间不足，可能导致录制中断。,A
+Do you want to allow third-party apps to execute commands and access your screen?,是否允许第三方应用执行命令并访问你的屏幕？,A
+## shortcut to,## 快捷键指向,A
+%s: Could not load file,%s：无法载入文件,A
+1.  Open [System Settings](x-apple.systempreferences:com.apple.Keyboard-Settings.extension).,1.  打开[系统设置](x-apple.systempreferences:com.apple.Keyboard-Settings.extension)。,A
+2.  Open **Keyboard** panel and click on **Keyboard Shortcuts...** button.,2.  打开**键盘**面板，点击**键盘快捷键...**按钮。,A
+3.  Choose **Screenshots** from the list on the left.,3.  从左侧列表中选择**屏幕截图**。,A
+800 x auto (default),800 x 自适应（默认）,A
+A new update is available...,有新版本可用...,A
+A resource shortage prevented the reception of a port right or out-of- line memory region in the message body.,系统资源不足，无法在消息体中接收端口权限或行外内存区域。,A
+A signing time was expected but was not found.,未找到预期的签名时间。,A
+Active screen is the screen where your cursor is pointing.,活动屏幕即光标当前所在的屏幕。,A
+"Add ""@2x"" suffix to Retina screenshots","为 Retina 截图添加 ""@2x"" 后缀",A
+Add 1px border to all screenshots,为所有截图添加 1 像素边框,A
+Add New Preset...,新建预设...,A
+Add New Screenshot,添加新截图,A
+Add Screenshot From File,从文件添加截图,A
+Adjust this option if you've encountered any issues with pasting from clipboard or clipboard managers.,若从剪贴板或剪贴板工具粘贴时遇到问题，请调整此选项。,A
+Allow Notifications...,允许通知...,A
+Allow URL scheme API,允许 URL scheme API,A
+Allow an orphaned activation to continue executing.,允许孤立的激活继续执行。,A
+An attempt was made to destroy the default processor set,曾尝试销毁默认处理器集,A
+An error occurred in retrieving update information. Please try again later.,获取更新信息时出错，请稍后重试。,A
+An error occurred while creating the file,创建文件时出错,A
+An error occurred while opening the file,打开文件时出错,A
+An error occurred while processing the video file.,处理视频文件时出错。,A
+An error occurred while saving the file,保存文件时出错,A
+An error occurred while starting screen recording.,开始屏幕录制时出错。,A
+An error occurred with screen recording.,屏幕录制时出错。,A
+An invalid login name was detected.,检测到无效的登录名。,A
+An invalid number of fields were encountered.,遇到无效数量的字段。,A
+Animation Settings,动画设置,A
+Annotate Last Screenshot,标注最近一次截图,A
+"App is not sandboxed, extending default cache directory with bundle identifier.",应用未启用沙盒，将使用包标识符扩展默认缓存目录。,A
+App was in the foreground for the first time. Starting a new session.,应用首次进入前台，正在启动新会话。,A
+"Application quit unexpectedly, but your recording was recovered and saved to the export location.",应用意外退出，但你的录制内容已恢复并保存到导出位置。,A
+Apply Previous Settings,应用之前的设置,A
+Apply Zoom Level to All,将缩放级别应用于全部,A
+Are you sure you want to cancel this recording and start a new one?,确定要取消本次录制并开始新的录制吗？,A
+Are you sure you want to close this recording?,确定要关闭本次录制吗？,A
+"Are you sure you want to delete """,确定要删除“,A
+Are you sure you want to delete all files from history?,确定要删除历史记录中的所有文件吗？,A
+Are you sure you want to delete this recording?,确定要删除这段录制吗？,A
+Are you sure you want to enable this option?,确定要启用此选项吗？,A
+Are you sure you want to remove the audio track?,确定要移除音轨吗？,A
+Ask for destination,询问保存位置,A
+Ask for name & show advanced options,询问名称并显示高级选项,A
+Ask for name after every capture,每次截图后询问名称,A
+Audio Recording Failed,音频录制失败,A
+Audio input error,音频输入错误,A
+Audio is muted in your project.,项目中的音频已静音。,A
+Audio output error,音频输出错误,A
+Audio settings error,音频设置错误,A
+Auto-Scroll needs accessibility permissions,自动滚动需要辅助功能权限,A
+Automatically Detect Language,自动检测语言,A
+Automatically apply preset to all screenshots:,自动将预设应用于所有截图：,A
+Automatically check for updates,自动检查更新,A
+Automatically expand canvas,自动扩展画布,A
+Background color,背景颜色,A
+Background preset,背景预设,A
+"Bundle identifier exists but is zero length, using main bundle executable name.",包标识符存在但长度为零，将使用主包可执行文件名。,A
+Camera customization is only available for videos recorded in Studio Mode.,摄像头自定义仅适用于以工作室模式录制的视频。,A
+Camera device not found,未找到摄像头设备,A
+Camera recording was disabled for this recording.,本次录制已停用摄像头录制。,A
+Camera writer error,摄像头写入错误,A
+Can't add new color,无法添加新颜色,A
+Can't create base path to store launch profile config file: %@,无法创建用于存储启动性能分析配置文件的基础路径：%@,A
+Can't merge audio tracks,无法合并音轨,A
+Cancel Processing...,取消处理...,A
+Cannot add data,无法添加数据,A
+Cannot create directory for empty path,无法为空路径创建目录,A
+Capture Area & Annotate,区域截图并标注,A
+Capture Area & Copy to Clipboard,区域截图并复制到剪贴板,A
+Capture Area & Pin to the Screen,区域截图并固定到屏幕,A
+Capture Area & Save,区域截图并保存,A
+Capture Area & Send to Raycast AI Chat,区域截图并发送到 Raycast AI 对话,A
+Capture Area & Upload to Cloud,区域截图并上传到云端,A
+Capture Area (A),区域截图 (A),A
+Capture Fullscreen,全屏截图,A
+Capture Fullscreen (F),全屏截图 (F),A
+Capture History is disabled.,截图历史已停用。,A
+Capture Previous Area,截取上一区域,A
+Capture Text (O),文字识别 (O),A
+Capture Text With Line Breaks,文字识别（保留换行）,A
+Capture Text Without Line Breaks,文字识别（不保留换行）,A
+Capture Window (Space/W),窗口截图 (Space/W),A
+Capture window shadow,截取窗口阴影,A
+Capturing session with status: %@,正在截图，状态：%@,A
+Choose From File...,从文件选择...,A
+Choose and Pin an Image,选择并固定图片,A
+Choose export location,选择导出位置,A
+Choose export location and exit,选择导出位置并退出,A
+Choose separate tracks to edit the microphone and system audio independently in video editing software.,选择独立音轨，以便在视频编辑软件中分别编辑麦克风与系统音频。,A
+Clear History...,清除历史记录...,A
+Click here to preview,点击此处预览,A
+Click on camera to toggle Full Screen,点击摄像头以切换全屏,A
+Click or drag to add zoom,点击或拖动以添加缩放,A
+Close All Overlays,关闭所有浮层,A
+Close Full Screen,关闭全屏,A
+Close after dragging,拖动后关闭,A
+Close after uploading,上传后关闭,A
+Cloud Upload Disabled,云上传已停用,A
+Configuring continuous launch profile v2.,正在配置持续启动性能分析 v2。,A
+Continue Without Audio,不带音频继续,A
+"Continuous profiling v2 enabled but disabled app start profiling, won't profile launch.",已启用持续性能分析 v2，但停用了应用启动分析，因此不会分析启动过程。,A
+"Continuous profiling v2 manual lifecycle conditions satisfied, will profile launch.",已满足持续性能分析 v2 的手动生命周期条件，将分析启动过程。,A
+"Continuous profiling v2 trace lifecycle conditions satisfied, will profile launch.",已满足持续性能分析 v2 的追踪生命周期条件，将分析启动过程。,A
+Copy Object to Clipboard,复制对象到剪贴板,A
+Copy Screenshot to Clipboard,复制截图到剪贴板,A
+Copy file to clipboard,复制文件到剪贴板,A
+Copy link when upload starts,上传开始时复制链接,A
+Copy to Clipboard,复制到剪贴板,A
+Could not configure the video reader.,无法配置视频读取器。,A
+Could not configure the video writer.,无法配置视频写入器。,A
+Could not copy path: out of memory,无法复制路径：内存不足,A
+Could not create camera input,无法创建摄像头输入,A
+Could not create directory: path is not null-terminated,无法创建目录：路径未以空字符结尾,A
+Could not create the video reader.,无法创建视频读取器。,A
+Could not create the video writer.,无法创建视频写入器。,A
+Could not delete %s: %s,无法删除 %s：%s,A
+Could not delete %s: Not a regular file.,无法删除 %s：不是常规文件。,A
+Could not determine type of %@,无法确定 %@ 的类型,A
+Could not get attributes of item at path: %@. Error: %@,无法获取路径 %@ 中项目的属性。错误：%@,A
+Could not get current process start time: %s,无法获取当前进程启动时间：%s,A
+Could not open %s: %s,无法打开 %s：%s,A
+Could not open a handle to specified path for async logging %s,无法打开指定路径的句柄以进行异步日志记录 %s,A
+Could not open directory %s,无法打开目录 %s,A
+Could not open file %s for writing: %s,无法打开文件 %s 进行写入：%s,A
+Could not open file %s: %s,无法打开文件 %s：%s,A
+Could not open replay info crash for file %s: %s,无法打开文件 %s 的重放崩溃信息：%s,A
+Could not read file attributes - File: %@ - %@,无法读取文件属性 - 文件：%@ - %@,A
+Could not remove %s: %s,无法移除 %s：%s,A
+Could not rename %s to %s: %s,无法将 %s 重命名为 %s：%s,A
+Could not save the current frame as an image.,无法将当前帧保存为图片。,A
+Couldn't create envelopes path.,无法创建 envelopes 路径。,A
+Couldn't load files in folder %@: %@,无法载入文件夹 %@ 中的文件：%@,A
+"Couldn't merge, because the JSONs differ in type on top level.",无法合并，因为两个 JSON 的顶层类型不同。,A
+Couldn't rename the project,无法重命名项目,A
+Counter settings,计数器设置,A
+Crash monitor type 0x%x shouldn't be able to cause events!,崩溃监视器类型 0x%x 不应产生事件！,A
+Crop & Resize Tool,裁剪与调整大小工具,A
+"Currently, the following conditions may break the scrolling capture:",当前，以下情况可能导致滚动截图失败：,A
+Cursor customization is only available for videos recorded in Studio Mode.,光标自定义仅适用于以工作室模式录制的视频。,A
+Custom response serializer failed with error:,自定义响应序列化器失败，错误：,A
+Custom wallpaper,自定义壁纸,A
+Decide what should happen after taking a screenshot or recording a video.,设置截图或录制视频后的操作。,A
+Decrease Tool Size,减小工具尺寸,A
+Delete some files or upgrade to Cloud Pro and have unlimited storage.,删除部分文件，或升级到 Cloud Pro 以享受无限存储空间。,A
+Desktop wallpaper,桌面壁纸,A
+Dim screen while recording,录制时调暗屏幕,A
+Display recording time in menu bar,在菜单栏显示录制时长,A
+Do Not Record Microphone,不录制麦克风,A
+Do more with your screen captures! **Right-click** on the overlay to open the context menu.,让截图发挥更多可能！在浮层上**右键**可打开快捷菜单。,A
+Do you want to assign system default shortcut to All-In-One mode?,是否将系统默认快捷键分配给一体化模式？,A
+Do you want to close all overlays?,是否关闭所有浮层？,A
+Do you want to continue?,是否继续？,A
+Do you want to open this link?,是否打开此链接？,A
+Do you want to replace the existing video?,是否替换现有视频？,A
+Do you want to save the changes made to this project?,是否保存对该项目所做的更改？,A
+Do you want to save the changes you made to the screenshot?,是否保存对截图所做的更改？,A
+Do you want to save your project before closing?,关闭前是否保存项目？,A
+Do you want to trim the video?,是否修剪视频？,A
+Do you want to update the screenshot in Cloud?,是否更新云端中的截图？,A
+Don't Record Audio,不录制音频,A
+Don't Record Camera,不录制摄像头,A
+Don't ask for confirmation,不询问确认,A
+Down-casted Array element failed to match the target type,向下转型的数组元素与目标类型不匹配,A
+Download link (Pro),下载链接（Pro）,A
+Download marked as failed because of invalid response content type %@,下载被标记为失败，因为响应内容类型 %@ 无效,A
+Download marked as failed because of invalid response status code %ld,下载被标记为失败，因为响应状态码 %ld 无效,A
+Download marked as failed because response is nil,下载被标记为失败，因为响应为空,A
+Download response status code is 304 not modified and ignored,下载响应状态码为 304（未修改），已忽略,A
+Downloaded image decode failed,下载的图片解码失败,A
+Downloaded image has 0 pixels,下载的图片像素数为 0,A
+Downloaded image is not modified and ignored,下载的图片未修改，已忽略,A
+Drag to capture the scrolling part of the screen.,拖动以截取屏幕的滚动部分。,A
+Drag to record a part of the screen.,拖动以录制屏幕的某个区域。,A
+Drag to select capture area.,拖动以选择截图区域。,A
+Draw shadow on objects,为对象绘制阴影,A
+Enable this option to record sound that comes from other applications.,启用此选项可录制来自其他应用的声音。,A
+Encountered error trying to retrieve app launch profile config: %@,尝试获取应用启动性能分析配置时出错：%@,A
+Enter Full Screen,进入全屏,A
+Enter preset name:,输入预设名称：,A
+Error occurred while deleting file at %@ because of %@,删除 %@ 处的文件时出错，原因：%@,A
+Error reading file %s: %s,读取文件 %s 时出错：%s,A
+Estimated file size,预估文件大小,A
+Executable name was zero length.,可执行文件名为空。,A
+Expected version 1 but got %lld,预期版本为 1，但实际为 %lld,A
+Export & Upload to Cloud,导出并上传到云端,A
+Export Current Frame as Image,将当前帧导出为图片,A
+Export Video & Upload to Cloud,导出视频并上传到云端,A
+Export was canceled.,导出已取消。,A
+Failed to allocate signal stack area of size %ul,未能分配大小为 %ul 的信号栈区域,A
+Failed to construct the URL to remove launch profile configs.,构建用于移除启动性能分析配置的 URL 失败。,A
+Failed to construct the URL to write launch profile configs.,构建用于写入启动性能分析配置的 URL 失败。,A
+Failed to construct the path to remove launch profile configs.,构建用于移除启动性能分析配置的路径失败。,A
+"Failed to create directory, path is too long: %@",创建目录失败，路径过长：%@,A
+Failed to create the directory at path %@.,在路径 %@ 创建目录失败。,A
+Failed to get static caches path for async log file.,获取异步日志文件的静态缓存路径失败。,A
+Failed to initialize directory for async log file: %@,初始化异步日志文件目录失败：%@,A
+Failed to initialize file system: %@,初始化文件系统失败：%@,A
+Failed to move %@ to previous state file: %@,将 %@ 移动到先前的状态文件失败：%@,A
+Failed to prepare the video composition for export.,准备用于导出的视频合成失败。,A
+Failed to read the video project package.,读取视频项目包失败。,A
+"Failed to remove file, path is too long: %@",移除文件失败，路径过长：%@,A
+Failed to serialize replay recording data.,序列化重放录制数据失败。,A
+Failed to serialize replay recording header.,序列化重放录制头部失败。,A
+Failed to unzip file.,解压文件失败。,A
+Failed to write data to path %@: %@,将数据写入路径 %@ 失败：%@,A
+Failed to write launch profile config file: %@.,写入启动性能分析配置文件失败：%@。,A
+Failed to write the video project package.,写入视频项目包失败。,A
+Failed to zip file.,压缩文件失败。,A
+File & Cloud link,文件与云端链接,A
+File & Image (default),文件与图片（默认）,A
+File I/O not available at path %@: %@,路径 %@ 上的文件 I/O 不可用：%@,A
+File Wrapper read error.,文件包装器读取错误。,A
+File Wrapper write error.,文件包装器写入错误。,A
+File compression error.,文件压缩错误。,A
+File decompression error.,文件解压错误。,A
+File manager is not available,文件管理器不可用,A
+File name format,文件名格式,A
+File reference TIFF error.,文件引用 TIFF 错误。,A
+File reference contents error.,文件引用内容错误。,A
+Filtering sample as it came before start time to begin slicing.,样本早于开始切片的时间，已过滤。,A
+Finishing launch tracer.,正在结束启动追踪器。,A
+Follow Cursor is only available for videos recorded in Studio Mode.,跟随光标仅适用于以工作室模式录制的视频。,A
+Follow us on X and be the first to know about new stuff!,在 X 上关注我们，第一时间了解新动态！,A
+"Found duplicate frame, removing one with link register",发现重复帧，已移除带链接寄存器的一帧,A
+Freeze screen when taking a screenshot,截图时冻结屏幕,A
+Get notified when someone comments on your video.,有人评论你的视频时收到通知。,A
+Hide Desktop Icons,隐藏桌面图标,A
+Hide cursor when not moving,光标静止时隐藏,A
+Hide cursor when typing,打字时隐藏光标,A
+Hide desktop icons while capturing,截图时隐藏桌面图标,A
+Hide/Show Overlays,隐藏/显示浮层,A
+Highlight Clicks,高亮点击,A
+How to select an area?,如何选择区域？,A
+How to use the text recognition tool?,如何使用文字识别工具？,A
+Ignoring ANR because the app is in the background,应用处于后台，已忽略 ANR,A
+Ignoring non directory when deleting old envelopes at path: %@,在路径 %@ 删除旧 envelopes 时忽略非目录项,A
+Image data is nil,图片数据为空,A
+Image object cannot be decoded.,图片对象无法解码。,A
+Image object not found.,未找到图片对象。,A
+Image url is blacklisted,图片 URL 已被列入黑名单,A
+Image url is nil,图片 URL 为空,A
+Import/Export format unsupported.,导入/导出格式不受支持。,A
+Include microphone,包含麦克风,A
+Include system audio,包含系统音频,A
+Increase Tool Size,增大工具尺寸,A
+Internet connection is back.,网络连接已恢复。,A
+Invalid date format. The following string doesn't represent a valid ISO 8601 date string: ',日期格式无效。以下字符串不是有效的 ISO 8601 日期字符串：',A
+"Invalid number of keys found, expected one.",找到的键数量无效，应为一个。,A
+Invalid register number: %d,无效的寄存器编号：%d,A
+Inverse arrow direction,反转箭头方向,A
+It appears that your microphone might be muted. Would you like to continue recording?,你的麦克风似乎已静音。是否继续录制？,A
+It is an unsupported type.,这是不受支持的类型。,A
+It will decrease the quality of your screenshots.,这会降低截图的质量。,A
+Key material must be wrapped for export.,密钥材料必须经过包装才能导出。,A
+Keystroke capture requires Accessibility permission.,按键捕获需要辅助功能权限。,A
+Keystroke customization is only available for videos recorded in Studio Mode.,按键自定义仅适用于以工作室模式录制的视频。,A
+Large videos can be compressed to reduce file size. **Double-click** on the overlay to open Video Editor.,较大的视频可以压缩以减小体积。**双击**浮层可打开视频编辑器。,A
+Launch profile config file URL: %@,启动性能分析配置文件的 URL：%@,A
+Link has been copied,链接已复制,A
+Lock and hide screenshot on mouse over,鼠标悬停时锁定并隐藏截图,A
+Merge audio to adjust the volume of each track separately:,合并音频以分别调节各音轨的音量：,A
+Merging audio...,正在合并音频...,A
+Microphone Disconnected,麦克风已断开,A
+Microphone and system audio will remain on separate tracks.,麦克风与系统音频将保持在独立音轨上。,A
+Microphone error,麦克风错误,A
+Microphone is muted,麦克风已静音,A
+Microphone volume,麦克风音量,A
+Microphone volume:,麦克风音量：,A
+Missing expected launch profile config parameter for lifecycle. Will not proceed with launch profile.,缺少启动性能分析所需的生命周期参数，将不执行启动性能分析。,A
+Model name using %@: %@,使用 %@ 的模型名称：%@,A
+Move Playhead Back 10 Frames,将播放头后退 10 帧,A
+Move Playhead to Next Clip Edge,将播放头移到下一个片段边缘,A
+Move Playhead to Next Frame,将播放头移到下一帧,A
+Move cursor here to start scrolling,将光标移到这里开始滚动,A
+Move to active screen,移动到活动屏幕,A
+Never open links,从不打开链接,A
+"No DSN provided, using base path for envelopes: %@",未提供 DSN，将使用基础路径存放 envelopes：%@,A
+No URL available to check for launch profile configs.,没有可用于检查启动性能分析配置的 URL。,A
+No URL available to retrieve launch profile configs.,没有可用于获取启动性能分析配置的 URL。,A
+"No bundle identifier found, using main bundle executable name.",未找到包标识符，将使用主包可执行文件名。,A
+No cached session to close.,没有可关闭的缓存会话。,A
+No default authority was detected.,未检测到默认的授权机构。,A
+No file to delete at %@,%@ 处没有可删除的文件,A
+No keystrokes were captured in this video.,这段视频中没有捕获到按键操作。,A
+"No launch profile config exists, will not profile launch.",不存在启动性能分析配置，将不分析启动过程。,A
+No location available for launch profiling config.,没有可用于存放启动性能分析配置的位置。,A
+No location available to write a launch profiling config.,没有可用于写入启动性能分析配置的位置。,A
+No microphone selected,未选择麦克风,A
+No microphone was selected for this recording.,本次录制未选择麦克风。,A
+No path available to check for launch profile configs.,没有可用于检查启动性能分析配置的路径。,A
+No path available to retrieve launch profile configs.,没有可用于获取启动性能分析配置的路径。,A
+No text detected,未检测到文字,A
+No timestamp to close session was provided. Closing as abnormal. Using session's start time %@,未提供用于关闭会话的时间戳。按异常关闭处理。使用会话的开始时间 %@,A
+No video file provided.,未提供视频文件。,A
+Not writing launch profiling config: directory could not be created.,未写入启动性能分析配置：目录无法创建。,A
+Notification permission granted.,通知权限已授予。,A
+Open Annotate tool,打开标注工具,A
+Open Annotation Tool...,打开标注工具...,A
+Open Capture History,打开截图历史,A
+Open From Clipboard,从剪贴板打开,A
+Open Link in Browser,在浏览器中打开链接,A
+Open Quick Look (Space),打开快速查看 (Space),A
+Open System Settings,打开系统设置,A
+Open Video Editor,打开视频编辑器,A
+Open Video Editor...,打开视频编辑器...,A
+Passphrase is required for import/export.,导入/导出需要密码。,A
+Paste From Clipboard,从剪贴板粘贴,A
+Pause/Resume Recording,暂停/继续录制,A
+Payment failed. Please check your billing settings...,支付失败。请检查你的账单设置...,A
+Pin Last Screenshot,固定最近一次截图,A
+Pin to the Screen,固定到屏幕,A
+Pinned Screenshots,已固定的截图,A
+Please select at least one thing that should happen after capturing your screen.,请至少选择一项截图后要执行的操作。,A
+Position on screen,屏幕上的位置,A
+Premature end-of-file encountered.,遇到意外的文件结尾。,A
+Press **Space** to preview taken screenshot.,按 **Space** 预览已截取的截图。,A
+Press the **Pin icon** to keep it on the screen.,点击**固定图标**可将其保留在屏幕上。,A
+Press to stop recording,按下以停止录制,A
+Project ID path component of DSN is missing,DSN 中缺少项目 ID 路径部分,A
+Quick Access Overlay,快速访问浮层,A
+Record Microphone,录制麦克风,A
+Record Screen (R),录制屏幕 (R),A
+Record Screen / Stop Recording,录制屏幕 / 停止录制,A
+Record System Audio,录制系统音频,A
+Record audio in mono,以单声道录制音频,A
+Record in Studio Mode,以工作室模式录制,A
+Record your video in Studio Mode to use this option.,以工作室模式录制视频后才能使用此选项。,A
+Recording Stopped,录制已停止,A
+Recording screen,正在录制屏幕,A
+Recording stopped because your disk is almost full.,录制已停止，因为你的磁盘几乎已满。,A
+Remember if background tool was opened,记住背景工具是否打开过,A
+Remember last selection,记住上次的选择,A
+Remove All Zooms,移除所有缩放,A
+Remove the Audio,移除音频,A
+Removing launch profile config file.,正在移除启动性能分析配置文件。,A
+Removing launch profiling config file at path: %@,正在移除路径 %@ 下的启动性能分析配置文件。,A
+Report did not have key path %@,报告中没有键路径 %@,A
+Reset All Warning Dialogs,重置所有警告对话框,A
+Reset to default,恢复默认设置,A
+"Response Content-Type ""","响应 Content-Type """,A
+Response Content-Type was missing and acceptable content types (,响应缺少 Content-Type，可接受的内容类型为 (,A
+"Response could not be serialized, input file was nil.",响应无法序列化，输入文件为空。,A
+"Response could not be validated, data file was nil.",响应无法校验，数据文件为空。,A
+Restart Recording,重新开始录制,A
+Restore Last Capture,恢复上一次截图,A
+"Returning empty files list, as folder doesn't exist at path: %@",返回空文件列表，因为路径 %@ 下的文件夹不存在,A
+SF Pro Text Regular,SF Pro Text Regular,A
+"Sampling out continuous v2 profile, won't profile launch.",持续 v2 性能分析被采样排除，将不分析启动过程。,A
+"Sampling out continuous v2 trace lifecycle profile, won't profile launch.",持续 v2 追踪生命周期性能分析被采样排除，将不分析启动过程。,A
+"Sampling out the launch trace for continuous profile v2 trace lifecycle, won't profile launch.",持续 v2 追踪生命周期的启动追踪被采样排除，将不分析启动过程。,A
+Save All Overlays,保存所有浮层,A
+Save as New Video,另存为新视频,A
+Save button behavior,保存按钮行为,A
+Save changes to the preset,保存对预设的更改,A
+"Save to ""Export location""","保存到""导出位置""",A
+Scale image to fit on one page,缩放图片以适应单页,A
+Screen Recording,屏幕录制,A
+Screen Recording stopped unexpectedly.,屏幕录制意外停止。,A
+Screen content error,屏幕内容错误,A
+Screen display error,屏幕显示错误,A
+Screen stream error,屏幕流错误,A
+Screen stream stopped with an error.,屏幕流因错误而停止。,A
+Screenshot quality,截图质量,A
+Scroll Vertically or Horizontally,垂直或水平滚动,A
+Scrolling Capture,滚动截图,A
+Scrolling Capture (S),滚动截图 (S),A
+Self-Timer interval,自拍定时器间隔,A
+Set a custom wallpaper used to hide desktop icons and as the background behind window screenshots.,设置自定义壁纸，用于隐藏桌面图标并作为窗口截图的背景。,A
+Set as default screenshot tool?,设为默认截图工具？,A
+Set maximum resolution to reduce file size and upload time.,设置最高分辨率以减小文件体积和上传时间。,A
+Set password: (Pro),设置密码：（Pro）,A
+Share my usage statistics,共享我的使用统计,A
+Share usage statistics?,共享使用统计数据？,A
+Shortcut is used for another action,该快捷键已被其他操作占用,A
+Show Desktop Icons,显示桌面图标,A
+Show Quick Access Overlay,显示快速访问浮层,A
+Show color names,显示颜色名称,A
+Show controls while recording,录制时显示控制条,A
+Show cursor on screenshots,在截图中显示光标,A
+Show menu bar icon,显示菜单栏图标,A
+Show only command keys,仅显示命令键,A
+Show preferences,显示偏好设置,A
+Show recently uploaded media,显示最近上传的媒体,A
+Shrink camera on zoom,缩放时缩小摄像头画面,A
+Slowly scroll down the content,缓慢向下滚动内容,A
+Something went wrong saving your file.,保存文件时出现问题。,A
+Split Zoom at Playhead,在播放头处拆分缩放,A
+Start GIF Recording,开始 GIF 录制,A
+Start Video Recording,开始视频录制,A
+Start/Stop Capturing,开始/停止截图,A
+Starting app launch trace profile at %llu.,在 %llu 开始应用启动追踪性能分析。,A
+Starting continuous launch profile v2.,正在启动持续启动性能分析 v2。,A
+Starting number:,起始编号：,A
+Structures should have already been initialized by the time they are being queried,结构在被查询时应该已经完成初始化,A
+Studio Mode needs accessibility permissions,工作室模式需要辅助功能权限,A
+Successfully deleted file at %@,已成功删除 %@ 处的文件,A
+Synchronized to remove all observers.,已同步移除所有观察者。,A
+System Accent color,系统强调色,A
+System audio volume,系统音频音量,A
+System audio volume:,系统音频音量：,A
+Temporarily Hide,暂时隐藏,A
+Text Recognition,文字识别,A
+Text has been copied,文字已复制,A
+"The ""Optimized for sharing"" option offers perfect balance between quality and loading time.","""优化分享""选项在画质与加载时间之间取得了理想平衡。",A
+The CRL type was not valid.,CRL 类型无效。,A
+"The address range specified is already in use, or no address range of the size specified could be found.",指定的地址范围已被占用，或找不到指定大小的地址范围。,A
+The audio tracks will not be merged. Your recording will be saved with the tracks separate.,音轨将不会合并。你的录制将以独立音轨保存。,A
+The data store is open.,数据存储已打开。,A
+The event preprocessor didn't update the replay event in place. The replay was discarded.,事件预处理器未就地更新重放事件，该重放已被丢弃。,A
+The export is still in progress. Do you want to cancel it?,导出仍在进行中。是否取消？,A
+The export is still in progress. You'll need to start over if you stop now.,导出仍在进行中。如果现在停止，你需要重新开始。,A
+The field format was incompatible.,字段格式不兼容。,A
+The file is too big.,文件过大。,A
+"The function requested was not applicable to this type of argument, or an argument is invalid.",所请求的函数不适用于该类型的参数，或参数无效。,A
+The key blob type is incorrect.,密钥 blob 类型不正确。,A
+The key format is not valid.,密钥格式无效。,A
+The name already denotes a right in the task.,该名称在任务中已表示某项权限。,A
+"The name denotes a right, but not an appropriate right.",该名称表示一项权限，但不是合适的权限。,A
+The name doesn't denote a right in the task.,该名称在任务中不表示任何权限。,A
+The name of the measurement is nil. Discarding the measurement.,测量项名称为空，已丢弃该测量项。,A
+The query size is unknown.,查询大小未知。,A
+The record was modified.,记录已被修改。,A
+The recording might stop unexpectedly and you may lose the file.,录制可能会意外停止，你可能会丢失文件。,A
+The requested property cannot be changed at this time.,请求的属性当前无法更改。,A
+The source file does not appear to be a valid format,源文件似乎不是有效的格式,A
+The source file does not contain a video track.,源文件中不包含视频轨道。,A
+The specified key has an invalid end date.,指定密钥的结束日期无效。,A
+The specified key has an invalid start date.,指定密钥的开始日期无效。,A
+The specified preferences domain is not valid.,指定的偏好设置域无效。,A
+The subject alternative name extension is not marked as critical.,使用者备用名称扩展未被标记为关键。,A
+The system returned an error while attempting to fetch the file size from the provided URL.,系统尝试从提供的 URL 获取文件大小时返回错误。,A
+The task already has send or receive rights for the port under another name.,该任务已以其他名称拥有此端口的发送或接收权限。,A
+The temp file destination could not be created or found,无法创建或找不到临时文件的目标位置,A
+The time source for the Timestamp Authority is not available.,时间戳权威机构的时间源不可用。,A
+The timestamp data submitted has the wrong format.,提交的时间戳数据格式错误。,A
+"The trailer type desired, or the number of trailer elements desired, is not supported by the kernel.",所需的文件尾类型或文件尾元素数量不受内核支持。,A
+The upload is still in progress. Do you want to cancel it?,上传仍在进行中。是否取消？,A
+The upload is still in progress. You'll need to start over if you stop now.,上传仍在进行中。如果现在停止，你需要重新开始。,A
+The upload progress will be lost.,上传进度将会丢失。,A
+The user name or passphrase you entered is not correct.,你输入的用户名或密码不正确。,A
+The video cannot be trimmed. Please try again.,该视频无法修剪。请重试。,A
+The video will not be trimmed.,该视频将不会被修剪。,A
+There is no audio in your video.,你的视频中没有音频。,A
+There is no path to write replay information,没有可用于写入重放信息的路径,A
+There was an error while completing your upload.,完成上传时出错。,A
+There was an error while compressing your image.,压缩图片时出错。,A
+There was an error while initiating the upload.,开始上传时出错。,A
+There was an error while uploading your file.,上传文件时出错。,A
+There was an error while uploading your image.,上传图片时出错。,A
+These options are unavailable for window screenshots.,这些选项不适用于窗口截图。,A
+This item contains information which is too large or in a format that cannot be displayed.,此项包含的信息过大，或格式无法显示。,A
+This item specifies a key size which is too large.,此项指定的密钥长度过大。,A
+This tool allows you to copy non-selectable text from,此工具可让你从以下来源复制无法选中的文字,A
+This video has no audio.,这段视频没有音频。,A
+This works in Fullscreen or Self-Timer modes only.,此功能仅在全屏或自拍定时模式下可用。,A
+Tip: You need to disable shadow as well if you don't want any padding.,提示：如果不需要任何内边距，还需要同时关闭阴影。,A
+"To enable magnifier, you must enable Crosshair Mode first.",要启用放大镜，必须先启用十字准线模式。,A
+Toggle Camera Fullscreen,切换摄像头全屏,A
+Toggle Desktop Icons,切换桌面图标显示,A
+Toggle Full Screen,切换全屏,A
+Toggle fullscreen,切换全屏,A
+Tracer start time: %llu,追踪器开始时间：%llu,A
+Trimming video...,正在修剪视频...,A
+Type %@ not allowed as top level container,类型 %@ 不允许作为顶层容器,A
+Unable to capture system audio. Do you want to continue recording without audio or stop the recording?,无法捕获系统音频。是否继续录制（无音频）或停止录制？,A
+Unsupported attribute for alignment.,不支持的对齐属性。,A
+Update uploaded screenshot,更新已上传的截图,A
+Update wallpaper when switching Spaces,切换 Spaces 时更新壁纸,A
+Update with Current Color,用当前颜色更新,A
+Upload error: %@,上传错误：%@,A
+Upload to Cloud & copy link,上传到云端并复制链接,A
+Upload to Cloud and exit,上传到云端并退出,A
+Upload to Cloud with Options,带选项上传到云端,A
+Upload your screenshots to the Cloud,将你的截图上传到云端,A
+and instantly get a shareable link.,并立即获得可分享的链接。,A
+Uploading to the cloud has been disabled by your organization. Contact your administrator if you need access.,你的组织已停用云端上传功能。如需使用，请联系管理员。,A
+Use old shortcut,使用旧快捷键,A
+User canceled GIF creation,用户已取消 GIF 创建,A
+Video file not found inside the package.,包内未找到视频文件。,A
+Video input error,视频输入错误,A
+Video settings error,视频设置错误,A
+What is Studio Mode?,什么是工作室模式？,A
+Window Screenshots,窗口截图,A
+Would you like to have your desktop icons hidden,是否希望在截图时自动,A
+automatically while capturing your screen?,隐藏桌面图标？,A
+Writing launch profiling config file at url %@,正在将启动性能分析配置文件写入 URL %@,A
+You can adjust all the settings and set your own,你可以调整所有设置，并,A
+keyboard shortcuts later in the app Preferences.,稍后在应用偏好设置中设定自己的键盘快捷键。,A
+You can delete the recording or stop the GIF conversion and save it as a video instead.,你可以删除这段录制，或停止 GIF 转换并改为保存为视频。,A
+"You can restore old files with ""Capture History"" option from the menu bar.","你可以通过菜单栏中的""截图历史""选项恢复旧文件。",A
+You can set a custom wallpaper to hide desktop icons in [wallpaper settings](,你可以在[壁纸设置](中设置自定义壁纸以隐藏桌面图标,A
+You may lose the file if it hasn't been saved.,如果尚未保存，你可能会丢失该文件。,A
+Your changes will be lost if you don't save it.,如果不保存，你的更改将会丢失。,A
+Your changes will be lost if you don't save them.,如果不保存，你的更改将会丢失。,A
+Your media will be lost if you didn't save it.,如果不保存，你的媒体文件将会丢失。,A
+Your microphone is muted,你的麦克风已静音,A
+Your screen recording has been successfully recovered.,你的屏幕录制已成功恢复。,A
+Your video is uploaded. The link has been copied to your clipboard.,你的视频已上传。链接已复制到剪贴板。,A
+Zoom Timeline In,放大时间轴,A
+Zoom Timeline Out,缩小时间轴,A
+Zoom Timeline to Fit,缩放时间轴以适应,A
+[CLEANSHOT] Upload Error,[CLEANSHOT] 上传错误,A
+dladdr failed for throwsite. Can't identify image of throwsite.,对抛出点执行 dladdr 失败，无法识别抛出点所属镜像。,A
+file already open with with write permission,文件已以写入权限打开,A
+nmemb * size > 0,nmemb * size > 0,A
+no CPU type for unknown subtype %d,未知子类型 %d 没有对应的 CPU 类型,A
+no CPU type or subtype,没有 CPU 类型或子类型,A
+unknown CPU type (%d),未知 CPU 类型 (%d),A
+unknown CPU type (%d) and subtype (%d),未知 CPU 类型 (%d) 和子类型 (%d),A
+write permissions error,写入权限错误,A
+"Portions of this software utilize the following copyrighted material, the use of which is hereby acknowledged:",本软件部分内容使用了以下受版权保护的材料，特此致谢：,B
+All-In-One mode?,一体化模式？,B
+%@ %lu items,%@ %lu 个项目,B
+4.  Turn off all shortcuts.,4.  关闭所有快捷键。,B
+All warning dialogs are now enabled.,已重新启用所有警告对话框。,B
+An error occurred when adding a frame to the destination,向目标添加帧时出错,B
+An error occurred when finalizing the destination,完成目标输出时出错,B
+An error occurred while opening the project,打开项目时出错,B
+An error occurred while saving the project,保存项目时出错,B
+Are you sure you want to stop the conversion?,确定要停止转换吗？,B
+Are you sure you want to stop the processing?,确定要停止处理吗？,B
+Are you sure you want to stop the uploading?,确定要停止上传吗？,B
+At least one action needs to be enabled,至少需要启用一项操作,B
+Bring All to Front,全部前置,B
+Can't restore any files,无法恢复任何文件,B
+Check for Updates,检查更新,B
+Check your Internet connection.,请检查你的网络连接。,B
+Chinese (Simplified),简体中文,B
+Chinese (Traditional),繁体中文,B
+Code: %ld,代码：%ld,B
+Compatibility warning,兼容性警告,B
+Do you want to assign ##,是否要分配 ##,B
+Do you want to assign shortcuts,是否要分配快捷键,B
+Don't warn me again,不再提醒,B
+Duplicate Object,复制对象,B
+Duplicate values for key: ',键存在重复值：',B
+Ensures all annotations fit by dynamically resizing canvas.,通过动态调整画布大小，确保所有标注都能完整显示。,B
+Filled Rectangle,实心矩形,B
+Filled Rectangle Tool,实心矩形工具,B
+Fit Timeline to View,让时间轴适应视图,B
+Highlighter Tool,荧光笔工具,B
+Hover over these thumbnails to discover more or simply **drag & drop** them into any app!,将鼠标悬停在这些缩略图上以发现更多内容，或直接**拖放**到任意应用中！,B
+I'll do it later,稍后再说,B
+"It appears that ""","看起来""",B
+It looks like you haven't disabled Screenshots shortcuts.,你似乎还没有关闭系统截图快捷键。,B
+"Join our newsletter for exclusive tips, updates, and special offers.",订阅我们的邮件通讯，获取独家技巧、更新与特别优惠。,B
+Keep line breaks,保留换行,B
+Let's walk you through a quick configuration,让我们快速完成配置,B
+Looks like your Internet connection is down.,你的网络连接似乎已断开。,B
+Lost internet connection.,网络连接已断开。,B
+Move Playhead Forward 10 Frames,将播放头前进 10 帧,B
+Move Playhead to End,将播放头移到末尾,B
+Move Playhead to Previous Clip Edge,将播放头移到上一个片段边缘,B
+Move Playhead to Previous Frame,将播放头移到上一帧,B
+Move Playhead to Start,将播放头移到开头,B
+Need more precision?,需要更高的精度？,B
+No files to restore...,没有可恢复的文件...,B
+"No shortcuts match ""","没有匹配的快捷键""",B
+Norwegian (Nynorsk),挪威语（新挪威语）,B
+Optimized for sharing,优化以分享,B
+Place on the bottom,放置在底部,B
+Place on the left,放置在左侧,B
+Place on the right,放置在右侧,B
+Place on the top,放置在顶部,B
+Play / Pause (Space),播放 / 暂停 (Space),B
+Please slow down...,请放慢速度...,B
+Restore Defaults,恢复默认设置,B
+Reveal in Finder,在访达中显示,B
+Revert to Original,还原为原始状态,B
+Ripple animation,涟漪动画,B
+Scale Retina screenshots to 1x,将 Retina 截图缩放为 1x,B
+Scale Retina to 1x,将 Retina 缩放为 1x,B
+Scale Retina videos to 1x,将 Retina 视频缩放为 1x,B
+Scale to fit on one page,缩放以适应单页,B
+Search shortcuts,搜索快捷键,B
+Self destruct: (Pro),阅后即焚：（Pro）,B
+Send To Raycast AI Chat...,发送到 Raycast AI 对话...,B
+Send to Raycast AI Chat,发送到 Raycast AI 对话,B
+Shortcuts not disabled,快捷键未关闭,B
+Split Clip at Playhead,在播放头处拆分片段,B
+"This action will flatten all annotations, making them uneditable.",此操作将合并所有标注，之后将无法编辑。,B
+This operation cannot be undone.,此操作无法撤销。,B
+This option improves compatibility with displaying Retina screenshots in third-party apps.,此选项可提升 Retina 截图在第三方应用中显示的兼容性。,B
+"images, videos, PDFs, webpages, photos and even QR codes.",图片、视频、PDF、网页、照片甚至二维码。,B
+Toggle Pins Visibility,切换固定图可见性,B
+Tweak your workflow,定制你的工作流,B
+Unlimited storage,无限存储空间,B
+View All Uploads...,查看全部上传...,B
+as soon as your Mac boots up?,开机后立即启动？,B
+You are not logged in.,你尚未登录。,B
+You can access the app through the menu bar icon or by using the defined keyboard shortcuts.,你可以通过菜单栏图标或已设置的快捷键来使用本应用。,B
+You need to log in first.,你需要先登录。,B
+Your changes will be lost if you exit.,如果退出，你的更改将会丢失。,B
+OK,好,W
+Delete,删除,W
+Import,导入,W
+Unlock,解锁,W
+Move,移动,W
+Line,直线,W
+Arrow,箭头,W
+Text,文字,W
+Default,默认,W
+  Move cursor here to start scrolling,将光标移到这里开始滚动,A/variant
