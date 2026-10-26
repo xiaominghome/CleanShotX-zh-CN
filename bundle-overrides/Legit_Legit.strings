@@ -62,6 +62,7 @@
 "Allow" = "允许";
 "Allow Notifications" = "允许通知";
 "Allow Notifications..." = "允许通知...";
+"Allow Notifications…" = "允许通知…";
 "Allow URL scheme API" = "允许 URL scheme API";
 "Allow an orphaned activation to continue executing." = "允许孤立的激活继续执行。";
 "Always" = "始终";
@@ -207,6 +208,7 @@
 "Check Now" = "立即检查";
 "Check for Updates" = "检查更新";
 "Check for Updates..." = "检查更新…";
+"Check for Updates…" = "检查更新…";
 "Check your Internet connection." = "请检查您的互联网连接。";
 "Chinese (Simplified)" = "简体中文";
 "Chinese (Traditional)" = "繁体中文";
@@ -384,6 +386,7 @@
 "Don't ask for confirmation" = "不询问确认";
 "Don't warn me again" = "不再提醒";
 "Done" = "完成";
+"Don’t ask again" = "不再询问";
 "Down-casted Array element failed to match the target type" = "向下转型的数组元素与目标类型不匹配";
 "Download" = "下载";
 "Download link (Pro)" = "下载链接（Pro）";
@@ -422,7 +425,9 @@
 "Expected version 1 but got %lld" = "预期版本为 1，但实际为 %lld";
 "Export" = "导出";
 "Export & Upload to Cloud" = "导出并上传到云端";
+"Export & Upload to Cloud…" = "导出并上传到云端…";
 "Export Current Frame as Image" = "将当前帧导出为图片";
+"Export Current Frame as Image…" = "将当前帧导出为图片…";
 "Export Failed" = "导出失败";
 "Export Video" = "导出视频";
 "Export Video & Upload to Cloud" = "导出视频并上传到云端";
@@ -431,6 +436,7 @@
 "Export was canceled." = "导出已取消。";
 "Exporting" = "正在导出";
 "Exporting video" = "正在导出视频";
+"Exporting video…" = "正在导出视频…";
 "Extract text" = "提取文字";
 "Failed" = "失败";
 "Failed to allocate signal stack area of size %ul" = "未能分配大小为 %ul 的信号栈区域";
@@ -612,11 +618,14 @@
 "Low" = "低";
 "Magnifier" = "放大镜";
 "Manage Account" = "管理账户";
+"Manage Account…" = "管理账户…";
 "Manual" = "手动";
 "Max resolution" = "最大分辨率";
 "Maybe Later" = "稍后再说";
 "Maybe later" = "稍后再说";
 "Medium" = "中";
+"Merge Audio" = "合并音频";
+"Merge audio" = "合并音频";
 "Merge audio to adjust the volume of each track separately:" = "合并音频以分别调节各音轨的音量：";
 "Merging audio..." = "正在合并音频...";
 "Microphone" = "麦克风";
@@ -681,6 +690,7 @@
 "Not now" = "暂不";
 "Not writing launch profiling config: directory could not be created." = "未写入启动性能分析配置：目录无法创建。";
 "Notification Settings" = "通知设置";
+"Notification Settings…" = "通知设置…";
 "Notification permission granted." = "通知权限已授予。";
 "Notifications" = "通知";
 "OCR" = "文字识别";
@@ -751,6 +761,7 @@
 "Preferences" = "偏好设置";
 "Premature end-of-file encountered." = "遇到意外的文件结尾。";
 "Preparing upload" = "正在准备上传";
+"Preparing upload…" = "正在准备上传…";
 "Preset" = "预设";
 "Presets" = "预设";
 "Press **Space** to preview taken screenshot." = "按 **Space** 预览已截取的截图。";
@@ -1083,6 +1094,7 @@
 "Twitter / X" = "Twitter / X";
 "Type %@ not allowed as top level container" = "类型 %@ 不允许作为顶层容器";
 "Type shortcut" = "输入快捷键";
+"Type shortcut…" = "输入快捷键…";
 "Unable to capture system audio. Do you want to continue recording without audio or stop the recording?" = "无法捕获系统音频。是否继续录制（无音频）或停止录制？";
 "Undo" = "撤销";
 "Unknown" = "未知";
@@ -1100,6 +1112,7 @@
 "Updates" = "更新";
 "Upgrade" = "升级";
 "Upgrade to Pro" = "升级到 Pro";
+"Upgrade to Pro…" = "升级到 Pro…";
 "Upload" = "上传";
 "Upload Complete" = "上传完成";
 "Upload disabled" = "上传已禁用";
@@ -1116,6 +1129,7 @@
 "Uploaded" = "已上传";
 "Uploading to the cloud has been disabled by your organization. Contact your administrator if you need access." = "你的组织已停用云端上传功能。如需使用，请联系管理员。";
 "Uploading video" = "正在上传视频";
+"Uploading video…" = "正在上传视频…";
 "Uploading..." = "正在上传…";
 "Uploading…" = "正在上传…";
 "Use System Default Shortcuts" = "使用系统默认快捷键";
@@ -1133,6 +1147,7 @@
 "Video settings error" = "视频设置错误";
 "View All Uploads..." = "查看全部上传...";
 "View more settings on CleanShot Cloud" = "在 CleanShot 云端查看更多设置";
+"View more settings on CleanShot Cloud…" = "在 CleanShot 云端查看更多设置…";
 "Wallpaper" = "壁纸";
 "Website" = "官方网站";
 "Welcome to CleanShot X" = "欢迎使用 CleanShot X";
