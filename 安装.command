@@ -44,7 +44,6 @@ if [ -z "${APP}" ]; then
   exit 1
 fi
 RES="${APP}/Contents/Resources"
-MACOS="${APP}/Contents/MacOS"
 
 echo "=============================================="
 echo " CleanShot X 简体中文语言包 · 安装"

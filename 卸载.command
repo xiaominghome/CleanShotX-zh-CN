@@ -26,7 +26,6 @@ find_app() {
 APP=$(find_app "${1:-}")
 [ -z "${APP}" ] && { echo "✗ 没有找到 CleanShot X.app"; exit 1; }
 RES="${APP}/Contents/Resources"
-MACOS="${APP}/Contents/MacOS"
 
 echo "=============================================="
 echo " CleanShot X 简体中文语言包 · 卸载"
