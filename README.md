@@ -5,6 +5,10 @@
 **纯语言资源替换** —— 不修改任何可执行文件、不注入任何运行时库、不碰任何授权验证。
 包里只有词表和本地化的界面资源，双击脚本装完即可。
 
+### [⬇️ 下载语言包 v5.0.1](https://github.com/xiaominghome/CleanShotX-zh-CN/releases/latest)
+
+解压后双击 `安装.command` 即可，卸载双击 `卸载.command`。也可以直接用仓库里的文件自己装。
+
 > ⚠️ 使用前请确保你**已通过官方渠道合法获得 CleanShot X 的授权**。
 > 本仓库不是破解工具，不提供、也不绕过任何授权验证。
 
@@ -38,7 +42,7 @@
 
 ## 安装
 
-1. 下载并解压整个文件夹（**不要**在压缩包里直接双击）
+1. 从 [Releases](https://github.com/xiaominghome/CleanShotX-zh-CN/releases/latest) 下载 zip，解压（**不要**在压缩包里直接双击）
 2. 双击 **`安装.command`** —— 会弹一个终端窗口，跑完自动打开 CleanShot X
 3. 若提示「无法打开，因为来自身份不明的开发者」：
    在 `安装.command` 上 **右键 → 打开 → 再点「打开」**
